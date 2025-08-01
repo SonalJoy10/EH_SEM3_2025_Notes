@@ -1,8 +1,4 @@
 # Assignment 6: What is Shodan?
-
-**Name:** Sonal Joy  
-**Reg. No.:** 2462151  
-
 ---
 
 ## 1. Introduction
@@ -70,7 +66,4 @@ In this assignment, Shodan was used to attempt to gather information on `scanme.
 While no results were found, this demonstrates an important point: **Shodan’s usefulness depends on the availability of recent indexed data**.  
 Even without results, understanding how Shodan works is valuable for both **security assessment** and **attack surface monitoring**.
 
----
-
-**Submitted by:** Sonal Joy  
-**Reg. No.:** 2462151  
+--- 
